@@ -1,15 +1,27 @@
+Nicole Borgaard
+----
+
+Hello! I'm a Web Developer at Oregon Research Institute. I'm also a Teaching Assistant at General Assembly. Four words that describe me:
+
+* education
+* astronomy
+* otherPeople'sDogs
+* tea
+
+
+
 <blockquote>
   FEWD37 Who's Who?
 </blockquote>
 
-<p>
+
 | - | - | - | - |  | - | - | - | - |
 | - | - | - | - |  | - | - | - | - |
 | - | - | - | - |  | - | - | - | - |
 | - | - | - | - |  | - | - | - | - |
 | - | - | - | - |  | - | - | - | - |
 | - | - | - | - |  | - | - | - | - |
-</p>
+
 
 
 <table border="1" width="100%">
