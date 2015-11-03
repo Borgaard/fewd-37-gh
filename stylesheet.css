@@ -1,0 +1,10 @@
+img {
+  height: 280px;
+  width: 280px;
+  border-radius: 50%;
+  border: 5px solid black;
+}
+
+p {
+  color: green;
+}
